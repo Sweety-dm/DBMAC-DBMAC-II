@@ -4,9 +4,8 @@
 
 ### Tian-Tian Zhang, Bo Yuan
 
-<br/>
 # Reference
-Tian-Tian, Zhang and Bo, Yuan, "[Density-Based Multiscale Analysis for Clustering in Strong Noise Settings with Varying Densities](https://ieeexplore.ieee.org/document/8359265/)", *IEEE ACCESS* 2018.
+Tian-Tian, Zhang and Bo, Yuan, "[Density-Based Multiscale Analysis for Clustering in Strong Noise Settings with Varying Densities](https://ieeexplore.ieee.org/document/8359265/)", *IEEE ACCESS*, 2018.
 
 # Code
 ***Note:*** *the code was developed on a Linux machine and was implemented in [R](https://www.r-project.org/). Before executing the code, you should have R installed and have an appropriate R environment setup (e.g. [RStudio](https://www.rstudio.com/products/RStudio/), or simply use a terminal) to take control of your R code.*
